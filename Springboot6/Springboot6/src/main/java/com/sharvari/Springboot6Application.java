@@ -14,6 +14,6 @@ public class Springboot6Application implements CommandLineRunner {
 	@Override
 	public void run(String...args)
 	{
-		System.out.println("Hello");
+		System.out.println("Hello World");
 	}
 }
